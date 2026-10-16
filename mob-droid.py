@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
-# Author      Mohit Kumar
-# Instagram   Kinghacker0
-# Website     https://elearning.hackersking.com
-# Copyright   © 2025 Hackersking
+# Author      AndroidDOnga
+# Instagram   AndroidDonga
+# Website     https://androiddonga.online
+# Copyright   © 2026 Androiddonga
 
 import os, platform
 from sys import exit
@@ -30,11 +30,11 @@ def head():
                   ▀▀─▀▀
        *****    {yellow}Mob-Droid -Latest Android Payload Generator{red}   *****
 {cyan}Follow me :{end}
-{green}• More on GitHub : {cyan}https://github.com/kinghacker0{end}
-{green}• YouTube: {cyan}https://www.youtube.com/@hackersking101{end}
-{green}• Join Our Community: {cyan}https://hackersking.rpy.club{end}
+{green}• More on GitHub : {cyan}https://github.com/androiddonga{end}
+{green}• YouTube: {cyan}https://www.youtube.com/@AndroidDonga{end}
+{green}• Join Our Community: {cyan}https://androiddonga.online{end}
 {bold}{red}----------------------------------------------------
-            © 2025 Hackersking eLearning
+            © 2026 AndroidDonga
 ----------------------------------------------------{end}""")
 
 def install_tools():
