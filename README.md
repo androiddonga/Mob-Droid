@@ -23,7 +23,7 @@ sudo apt update && sudo apt install metasploit-framework
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/kinghacker0/Mob-Droid.git
+git clone https://github.com/androiddonga/Mob-Droid.git
 cd Mob-Droid
 chmod +x mob-droid.py
 ```
@@ -75,8 +75,7 @@ This option downloads and installs necessary tools for APK modifications.
   ```
 
 ## ✨ Credits
-- Developed by **Mohit Kumar** ([@KingHacker0](https://github.com/kinghacker0))
-- Part of **Hackersking eLearning**
+- Developed by **AndroidDonga** ([@androiddonga](https://github.com/androiddonga))
 
 ## ⚠ Disclaimer
 This tool is intended for **educational purposes only**. The author is not responsible for any misuse.
@@ -88,7 +87,6 @@ This tool is intended for **educational purposes only**. The author is not respo
 ⭐ **Star this repository** if you find it useful!
 
 📢 **Follow us on:**
-- 🌐 Website: [HackersKing](https://elearning.hackersking.com)
-- 📺 YouTube: [HackersKing101](https://www.youtube.com/@hackersking101)
-- 🔥 Community: [HackersKing Forum](https://hackersking.rpy.club)
+- 🌐 Website: [Androiddonga](https://androiddonga.online)
+- 📺 YouTube: [AndroidDonga](https://www.youtube.com/@androiddonga)
 
